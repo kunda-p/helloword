@@ -5,3 +5,4 @@ test파일sss
 충돌 또 발생시킬꺼야
 
 rebase test 1
+기타기능
