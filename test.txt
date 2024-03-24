@@ -10,4 +10,4 @@ rebase test 1
 
 version222
 
-3-way-merge
+3-way-merge test
