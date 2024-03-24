@@ -11,3 +11,5 @@ rebase test 3way
 version222
 
 3-way-merge
+
+fast-foward
